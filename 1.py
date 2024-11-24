@@ -6,7 +6,7 @@
 #                 f = ((not x) and y and z and (not w)) or ((not x) and y and (not z) and (not w)) or (x and y and z and (not w))
 #                 if f == 1:
 #                     print(x, y, z, w)
-# x w z y
+# x w z yfdsgsfhgghfh,klk.ml/.,/
 
 
 # p = []
